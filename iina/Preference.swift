@@ -677,7 +677,7 @@ struct Preference {
     .controlBarAutoHideTimeout: Float(2.5),
     .controlBarToolbarButtons: [ToolBarButton.pip.rawValue, ToolBarButton.playlist.rawValue, ToolBarButton.settings.rawValue],
     .oscPosition: OSCPosition.floating.rawValue,
-    .playlistWidth: 270,
+    .playlistWidth: 500,
     .prefetchPlaylistVideoDuration: true,
     .themeMaterial: Theme.dark.rawValue,
     .enableOSD: true,
